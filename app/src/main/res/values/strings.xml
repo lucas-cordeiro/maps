@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapa_normal">Mapa Normal</string>
+    <string name="mapa_satelite">Mapa Satélite</string>
+    <string name="mapa_terreno">Mapa Terreno</string>
+    <string name="mapa_hibrido">Mapa Híbrido</string>
+    <string name="mapa_zoom_im">Zoom (+)</string>
+    <string name="mapa_zoom_out">Zoom (-)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
